@@ -1,0 +1,5 @@
+package om.xadmin.usermanagement.dao;
+
+public class UserDao {
+
+}

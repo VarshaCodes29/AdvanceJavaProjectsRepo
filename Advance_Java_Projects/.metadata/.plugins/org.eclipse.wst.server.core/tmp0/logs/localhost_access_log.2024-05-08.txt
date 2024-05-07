@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [08/May/2024:00:03:43 +0530] "GET /UserManagement/ HTTP/1.1" 200 1778
+0:0:0:0:0:0:0:1 - - [08/May/2024:00:03:45 +0530] "GET /UserManagement/new HTTP/1.1" 200 2085
+0:0:0:0:0:0:0:1 - - [08/May/2024:00:03:50 +0530] "POST /UserManagement/insert HTTP/1.1" 200 -
+127.0.0.1 - - [08/May/2024:00:04:27 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [08/May/2024:00:04:28 +0530] "GET /UserManagement/ HTTP/1.1" 200 1778
+0:0:0:0:0:0:0:1 - - [08/May/2024:00:04:48 +0530] "GET /UserManagement/new HTTP/1.1" 200 2085
+0:0:0:0:0:0:0:1 - - [08/May/2024:00:04:55 +0530] "POST /UserManagement/insert HTTP/1.1" 200 -

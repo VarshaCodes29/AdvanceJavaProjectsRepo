@@ -1,0 +1,7 @@
+package in.vp.backend;
+
+import javax.servlet.http.HttpServlet;
+@WebServlet("/Myservlet")
+public class MyServlet extends HttpServlet{
+
+}
